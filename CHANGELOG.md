@@ -1,6 +1,9 @@
 # Changelog
 Todas as mudanças consideráveis serão documentadas nesse arquivo
 
+## v.1.3.0 - 2022-05-22 `Release` _(Vinicius)_
+    * Criação da página de cadastrado de usuário no sistema.
+
 ## v.1.2.0 - 2022-05-21 `Release` _(Vinicius)_
     * Criação da página de recuperar senha do usuário.
 
