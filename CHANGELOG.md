@@ -1,6 +1,11 @@
 # Changelog
 Todas as mudanças consideráveis serão documentadas nesse arquivo
 
+## v.1.4.1 - 2022-06-03 `Release` _(Vinicius)_
+    * Organizando o projeto. 
+    * Criação da estrutura de Master Pages. 
+    * Configurando arquivo de rotas e utilizando também o active link.
+
 ## v.1.4.0 - 2022-05-23 `Release` _(Vinicius)_
     * Criação da página do carrinho de compras.
     * Criação da tela de produtos.
